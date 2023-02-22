@@ -1,5 +1,4 @@
 # SensorLogger
-Try to log some useful data from VR senser
 
 
 ## Usage
